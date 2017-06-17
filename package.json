@@ -11,7 +11,7 @@
     "webpack-dev-server": "2.4.5"
   },
   "scripts": {
-    "start": "webpack --watch | webpack-dev-server --no-inline --hot --open"
+    "server": "webpack-dev-server --no-inline --open"
   },
   "keywords": [],
   "author": "",
