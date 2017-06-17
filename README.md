@@ -9,7 +9,7 @@ To make this work run:
 
 ```
 $ npm install
-$ npm start server
+$ npm run server
 ```
 
 Tested only on linux.
