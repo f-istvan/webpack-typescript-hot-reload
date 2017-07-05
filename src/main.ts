@@ -1,3 +1,4 @@
-import { person } from './person';
+import { Calc } from './Calc';
 
-console.log(person.firstName + ' ' + person.lastName);
+console.log(Calc.add(1, 1));
+
