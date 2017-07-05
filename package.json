@@ -17,7 +17,7 @@
   },
   "scripts": {
     "server": "webpack-dev-server --no-inline --open",
-    "test": "karma start"
+    "tests": "karma start"
   },
   "keywords": [],
   "author": "",

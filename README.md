@@ -1,15 +1,29 @@
-This repository includes two .ts files. Wiht one command it will: 
-* build the .ts files into one .js file
-* and open an index.html in the default browser with hot reload enabled
+In this typescript example project you will find:
+* some .ts source files
+* some .ts jasmine tests
+
+With one command this project will: 
+* build the src .ts files into one .js file
+* include the .js result into index.html
+* open the index.html in the default browser with hot reload enabled
 
 See the output in the browers console.
 
-
-To make this work run:
+Init project:
 
 ```
 $ npm install
+```
+
+Start server:
+
+```
 $ npm run server
 ```
 
-Tested only on linux.
+Run karma tests:
+
+```
+$ npm run tests
+```
+
